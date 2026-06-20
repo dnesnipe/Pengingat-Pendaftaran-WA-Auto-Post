@@ -1,0 +1,6 @@
+{
+  "name": "Pengingat Pendaftaran dan WA Auto-Post",
+  "description": "Aplikasi pengatur jadwal pendaftaran, pengingat H-2 pembukaan pendaftaran, dan pembuat pesan otomatis untuk dikirim ke grup WhatsApp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
